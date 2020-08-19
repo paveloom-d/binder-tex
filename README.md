@@ -8,7 +8,7 @@ If you are unsure, please refer to the description on the last commit on the
 
 This is a Docker image from a series of images based on the
 [`paveloom/binder-base`](https://github.com/paveloom-d/binder-base) image. It adds some
-TeX dependencies and a couple of Python packages to the base. See more under the spoiler:
+TeX dependencies and a couple of Python packages. See more under the spoiler:
 
 <details>
 <summary>Content of the image</summary>
@@ -40,7 +40,7 @@ TeX dependencies and a couple of Python packages to the base. See more under the
 Yeah, there's a Jupyter notebook you can watch static
 [here on GitHub](https://github.com/paveloom-d/binder-tex/blob/master/examples/example.ipynb)
 or interactively on
-[Binder](https://mybinder.org/v2/gh/paveloom-d/binder-tex/master?urlpath=lab).
+[Binder](https://mybinder.org/v2/gh/paveloom-d/binder-tex/master?urlpath=lab/tree/example.ipynb).
 
 ### How do I use it?
 
