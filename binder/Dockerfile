@@ -2,4 +2,4 @@
 FROM paveloom/binder-tex:latest
 
 # Get the example notebook
-RUN wget https://raw.githubusercontent.com/paveloom-d/binder-tex/master/examples/example.ipynb
+RUN wget https://raw.githubusercontent.com/paveloom-d/binder-tex/develop/examples/example.ipynb
