@@ -6,7 +6,8 @@ If you are unsure, please refer to the description on the last commit on the
 
 ### What is this?
 
-This is a Docker image from a series of images based on the
+This is a Docker image from
+[the series of images](https://github.com/orgs/paveloom-d/projects/1) based on the
 [`paveloom/binder-base`](https://github.com/paveloom-d/binder-base) image. It adds some
 TeX dependencies and a couple of Python packages. See more under the spoiler:
 
