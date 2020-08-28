@@ -17,7 +17,7 @@ TeX dependencies and a couple of Python packages. See more under the spoiler:
   <li>
     Base image:
     <a href="https://github.com/paveloom-d/binder-base">paveloom/binder-base</a>
-    (0.1.1)
+    (0.1.2)
   </li>
   <li>TexLive:</li>
   <ul>
@@ -54,4 +54,5 @@ FROM paveloom/binder-tex:tag
 
 where the `tag` is one of the following:
 
+* [0.1.1](https://github.com/paveloom-d/binder-tex/releases/tag/v0.1.1)
 * [0.1.0](https://github.com/paveloom-d/binder-tex/releases/tag/v0.1.0)
